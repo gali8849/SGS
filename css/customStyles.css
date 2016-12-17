@@ -12,4 +12,8 @@ li:before
     margin-top: 4px;
     color: #CCCCCC;
 }
+.modal{
+  padding-left: 15px;
+  padding-right: 15px;
+}
 
