@@ -1,1 +1,15 @@
+li {
+    display: block;
+}
+
+li:before
+{
+    /*Using a Bootstrap glyphicon as the bullet point*/
+    content: "\e080";
+    font-family: 'Glyphicons Halflings';
+    font-size: 9px;
+    float: left;
+    margin-top: 4px;
+    color: #CCCCCC;
+}
 
