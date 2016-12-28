@@ -1,19 +1,26 @@
 li {
     display: block;
 }
-
-li:before
-{
-    /*Using a Bootstrap glyphicon as the bullet point*/
+/** Using a Bootstrap glyphicon as the bullet point
+li-arrow {
     content: "\e080";
     font-family: 'Glyphicons Halflings';
     font-size: 9px;
     float: left;
     margin-top: 4px;
+    margin-right: 10px;
+    margin-left: -25px;
     color: #CCCCCC;
 }
-.modal{
-  padding-left: 15px;
-  padding-right: 15px;
+**/
+.bg-liuBei{
+  background-size:cover;
+  background-repeat:no-repeat;
+  background-image: url('../img/Shu/Liu Bei 4.png');
 }
-
+.modal-text{
+ text-align: center;
+}
+.modal-dialog{
+  padding:0px;
+}
