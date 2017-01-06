@@ -206,3 +206,10 @@ img{
   background-repeat:no-repeat;
   background-image: url('../img/Shu/xiahoushibg.jpg');
 }
+/* Wu Heroes */
+
+.bg-sunQuan{
+  background-size:cover;
+  background-repeat:no-repeat;
+  background-image: url('../img/wu/sunquanbg.jpg');
+}
